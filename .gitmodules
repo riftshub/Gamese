@@ -1,0 +1,24 @@
+[submodule "DNZHRecomp/lib/N64ModernRuntime"]
+	path = DNZHRecomp/lib/N64ModernRuntime
+	url = https://github.com/sonicdcer/N64ModernRuntime
+[submodule "DNZHRecomp/lib/RmlUi"]
+	path = DNZHRecomp/lib/RmlUi
+	url = https://github.com/mikke89/RmlUi
+[submodule "DNZHRecomp/lib/freetype-windows-binaries"]
+	path = DNZHRecomp/lib/freetype-windows-binaries
+	url = https://github.com/ubawurinna/freetype-windows-binaries
+[submodule "DNZHRecomp/lib/lunasvg"]
+	path = DNZHRecomp/lib/lunasvg
+	url = https://github.com/sammycage/lunasvg
+[submodule "DNZHRecomp/lib/DukeNukemZeroHour"]
+	path = DNZHRecomp/lib/DukeNukemZeroHour
+	url = https://github.com/Gillou68310/DukeNukemZeroHour
+[submodule "DNZHRecomp/lib/rt64"]
+	path = DNZHRecomp/lib/rt64
+	url = https://github.com/rt64/rt64
+[submodule "DNZHRecomp/lib/sse2neon"]
+	path = DNZHRecomp/lib/sse2neon
+	url = https://github.com/DLTcollab/sse2neon
+[submodule "DNZHRecomp/DNZHRecompSyms"]
+	path = DNZHRecomp/DNZHRecompSyms
+	url = https://github.com/sonicdcer/DNZHRecompSyms.git
