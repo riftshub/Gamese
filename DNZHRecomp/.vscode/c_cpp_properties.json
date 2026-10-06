@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "_LANGUAGE_C",
+                "DVERSION_US",
+                "DTARGET_N64"
+            ]
+        }
+    ],
+    "version": 4
+}

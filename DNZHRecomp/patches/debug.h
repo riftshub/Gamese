@@ -1,0 +1,10 @@
+#ifndef DNZHRECOMP_DEBUG
+#define DNZHRECOMP_DEBUG
+
+#define DEBUG_MENU 0
+
+// Not working
+#define DEBUG_SKIP_INTRO 0
+#define DEBUG_SKIP_INTRO_CUTSCENES 0
+
+#endif
